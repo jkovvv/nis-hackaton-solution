@@ -1,0 +1,68 @@
+,well,esp_type,date_time,label
+0,well_1,5-30-2250,2020-08-14,Mehanicke primese
+1,well_1,5-30-2250,2020-10-04,Mehanicke primese
+2,well_1,5-30-2100,2021-12-20,Talozenje kamenca
+3,well_2,5A-35-2000,2020-04-21,Mehanicke primese
+4,well_3,5-30-950,2023-01-04,Talozenje kamenca
+5,well_4,5-30-1900,2024-02-06,Nehermeticnost kompozicije tubinga
+6,well_5,5-30-1400,2024-03-22,Mehanicke primese
+7,well_6,5-30-1600,2023-06-11,Nehermeticnost kompozicije tubinga
+8,well_7,5-30-1500,2020-06-27,Nehermeticnost kompozicije tubinga
+9,well_8,5-50-2100,2021-12-28,Mehanicke primese
+10,well_8,5-30-2100,2020-12-06,Mehanicke primese
+11,well_9,5-30-2250,2020-10-18,Nehermeticnost kompozicije tubinga
+12,well_9,5-30-2100,2023-01-04,Nehermeticnost kompozicije tubinga
+13,well_9,5-30-2100,2024-05-07,Nehermeticnost kompozicije tubinga
+14,well_10,5-30-1900,2024-02-25,Nehermeticnost kompozicije tubinga
+15,well_11,5A-35-2200,2023-05-23,Nehermeticnost kompozicije tubinga
+16,well_11,5A-35-2200,2023-12-17,Nehermeticnost kompozicije tubinga
+17,well_12,4-20-2250,2020-03-13,Mehanicke primese
+18,well_13,5-30-1900,2023-10-03,Nehermeticnost kompozicije tubinga
+19,well_14,4-20-2250,2021-06-26,Mehanicke primese
+20,well_15,5A-35-1800,2022-04-28,Nehermeticnost kompozicije tubinga
+21,well_16,5-50-950,2024-04-20,Nehermeticnost kompozicije tubinga
+22,well_17,5-30-950,2020-07-16,Nehermeticnost kompozicije tubinga
+23,well_17,5-50-750,2022-09-07,Nehermeticnost kompozicije tubinga
+24,well_18,5-80-900,2024-02-05,Mehanicke primese
+25,well_19,5-30-1500,2024-05-05,Mehanicke primese
+26,well_20,5-80-1200,2023-07-04,Nehermeticnost kompozicije tubinga
+27,well_21,5-30-950,2023-06-24,Mehanicke primese
+28,well_22,5-30-1500,2020-08-02,Mehanicke primese
+29,well_23,5-30-1500,2021-01-25,Talozenje kamenca
+30,well_24,5-30-950,2022-03-17,Mehanicke primese
+31,well_24,5-30-950,2023-01-18,Mehanicke primese
+32,well_25,5-30-1300,2023-01-19,Mehanicke primese
+33,well_25,5-30-1200,2023-07-03,Talozenje kamenca
+34,well_26,5-30-900,2023-05-17,Mehanicke primese
+35,well_26,5-30-700,2024-04-16,Mehanicke primese
+36,well_27,5-30-950,2023-05-01,Mehanicke primese
+37,well_28,5-30-1200,2023-10-14,Mehanicke primese
+38,well_29,5-30M-980,2024-06-10,Mehanicke primese
+39,well_30,5-30-1600+MNFB,2022-04-27,Mehanicke primese
+40,well_31,5-30-950,2023-11-08,Mehanicke primese
+41,well_32,4-20-750,2022-03-17,Mehanicke primese
+42,well_33,5-30-1600,2022-09-02,Mehanicke primese
+43,well_34,5-30-900,2023-11-06,Mehanicke primese
+44,well_35,5-30-2250,2023-05-06,Talozenje kamenca
+45,well_36,5-30-950,2022-04-02,Mehanicke primese
+46,well_36,5-30-2250,2022-12-14,Mehanicke primese
+47,well_36,5-30-2250,2023-05-29,Mehanicke primese
+48,well_36,5-30-2250,2023-09-10,Mehanicke primese
+49,well_37,5A-35-1800,2020-02-20,Mehanicke primese
+50,well_37,5-30-1900,2020-07-08,Mehanicke primese
+51,well_38,5A-35-1800,2021-07-25,Mehanicke primese
+52,well_39,5A-35-2200,2020-01-19,Talozenje kamenca
+53,well_40,5-30-750,2020-08-31,Nehermeticnost kompozicije tubinga
+54,well_41,5-30-1800,2024-05-19,Nehermeticnost kompozicije tubinga
+55,well_42,5-30-2100,2020-03-15,Talozenje kamenca
+56,well_42,5-30-2100,2020-04-22,Mehanicke primese
+57,well_42,5-30-2250,2020-04-29,Mehanicke primese
+58,well_43,5-30-1900,2023-03-10,Nehermeticnost kompozicije tubinga
+59,well_44,5-50-2250,2023-06-18,Mehanicke primese
+60,well_44,5-30-2250,2023-12-18,Mehanicke primese
+61,well_45,5-30-2100,2023-07-23,Talozenje kamenca
+62,well_46,5-30-2250,2022-05-27,Talozenje kamenca
+63,well_47,5-30-2100,2021-08-05,Talozenje kamenca
+64,well_48,5-30-500,2023-12-07,Mehanicke primese
+65,well_49,5-15-800,2020-01-03,Mehanicke primese
+66,well_50,5-15-800,2023-04-09,Mehanicke primese
